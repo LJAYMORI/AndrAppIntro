@@ -13,6 +13,7 @@ import java.lang.reflect.Field;
  * Created by Jonguk on 2017. 4. 25..
  */
 
+// http://stackoverflow.com/questions/10812009/change-viewpager-animation-duration-when-sliding-programmatically
 public class CustomViewPager extends ViewPager {
     public CustomViewPager(Context context) {
         super(context);
